@@ -1,7 +1,7 @@
 # Disfluency-Generation-and-Detection
 This repo contains codes for the following paper: 
 
-*Jingfeng Yang, Zhaoran Ma, Diyi Yang*: planning and generating natural and diverse disfluent texts as augmentation for disfluency detection. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP'2020)
+*Jingfeng Yang, Zhaoran Ma, Diyi Yang*: Planning and Generating Natural and Diverse Disfluent Texts as Augmentation for Disfluency Detection. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP'2020)
 
 If you would like to refer to it, please cite the paper mentioned above. 
 
