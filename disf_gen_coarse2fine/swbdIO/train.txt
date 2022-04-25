@@ -1,0 +1,211 @@
+okay	uh
+UH	UH
+O	O
+
+i	was	just	trying	to	think	about	how	i	how	i	dress	for	work	you	know
+PRP	VBD	RB	VBG	TO	VB	IN	WRB	PRP	WRB	PRP	VBP	IN	NN	PRP	VBP
+O	O	O	O	O	O	O	I	I	O	O	O	O	O	O	O
+
+t	i	is	a	very	casual	atmosphere
+NNP	NNP	VBZ	DT	RB	JJ	NN
+O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+and	uh	what	i	usually	do	on	the	weekend	is	is	lay	out	five	outfits
+CC	UH	WP	PRP	RB	VBP	IN	DT	NN	VBZ	VBZ	VBP	RB	CD	NN
+O	O	O	O	O	O	O	O	O	I	O	O	O	O	O
+
+and	uh	on	monday	i	i	wear	the	the	worst	looking	one	because	it	does	n't	seem	like	people	are	really	you	know	are	that	alive	on	monday	you	know
+CC	UH	IN	NNP	PRP	PRP	VBP	DT	DT	JJS	VBG	NN	IN	PRP	VBZ	RB	VB	IN	NNS	VBP	RB	PRP	VBP	VBP	RB	JJ	IN	NNP	PRP	VBP
+O	O	O	O	I	O	O	I	O	O	O	O	O	O	O	O	O	O	O	I	I	O	O	O	O	O	O	O	O	O
+
+so
+RB
+O
+
+yeah
+UH
+O
+
+and	then	progressively	through	the	week	i	'll	i	'll	wear	nicer	looking	things
+CC	RB	RB	IN	DT	NN	PRP	MD	PRP	MD	VB	JJR	VBG	NNS
+O	O	O	O	O	O	I	I	O	O	O	O	O	O
+
+and	then	on	friday	most	everybody	wears	jeans	jeans	and	sweatshirts	or	you	know	jeans	and	blouses	or	something	like	that
+CC	RB	IN	NNP	RBS	NN	VBZ	NNS	NNS	CC	NNS	CC	PRP	VBP	NNS	CC	NNS	CC	NN	IN	DT
+O	O	O	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh	but	mostly	what	i	wear	are	skirts	and	blouses	or	you	know	skirts	and	uh	pullover	sweaters	or	uh	you	know	little	two	piece	dress	suit	suits	like
+UH	CC	RB	WP	PRP	VBP	VBP	NNS	CC	NNS	CC	PRP	VBP	NNS	CC	UH	NN	NNS	CC	UH	PRP	VBP	JJ	CD	NN	NN	NN	NNS	IN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	I	O	O
+
+but
+CC
+O
+
+yeah	uh
+UH	UH
+O	O
+
+you	know	that	's	a	good	way	to	approach	it
+PRP	VBP	DT	BES	DT	JJ	NN	TO	VB	PRP
+O	O	O	O	O	O	O	O	O	O
+
+i	've	never	thought	about	um
+PRP	VBP	RB	VBN	IN	UH
+O	O	O	O	O	O
+
+i	do	plan	my	clothes	a	week	in	advance
+PRP	VBP	VB	PRP$	NNS	DT	NN	IN	NN
+O	O	O	O	O	O	O	O	O
+
+actually	i	plan	them	a	month	in	advance
+RB	PRP	VBP	PRP	DT	NN	IN	NN
+O	O	O	O	O	O	O	O
+
+i	usually	do	a	month	at	a	time
+PRP	RB	VB	DT	NN	IN	DT	NN
+O	O	O	O	O	O	O	O
+
+so	i	do	n't	repeat	an	outfit
+RB	PRP	VBP	RB	VB	DT	NN
+O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+but	um	i	've	never	thought	about	wearing	your	worst	outfit	on	monday	because	really	no	one	's	paying	attention
+CC	UH	PRP	VBP	RB	VBN	IN	VBG	PRP$	JJS	NN	IN	NNP	IN	RB	RB	NN	BES	VBG	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+but	anyway	um	i	really	i	do	n't	work	outside	of	school
+CC	RB	UH	PRP	RB	PRP	VBP	RB	VB	IN	IN	NN
+O	O	O	I	I	O	O	O	O	O	O	O
+
+um	i	work	in	the	computer	lab	at	school
+UH	PRP	VBP	IN	DT	NN	NN	IN	NN
+O	O	O	O	O	O	O	O	O
+
+so	i	can	just	wear	whatever	i	have	on	for	school
+RB	PRP	MD	RB	VB	WP	PRP	VBP	RP	IN	NN
+O	O	O	O	O	O	O	O	O	O	O
+
+an	and	um	and	really	it	's
+CC	CC	UH	CC	RB	PRP	BES
+I	I	O	O	O	O	O
+
+i	try	to	dress	presentable	but	very	comfortable
+PRP	VBP	TO	VB	JJ	CC	RB	JJ
+O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+like	um	in	the	warm	weather	it	's	always	shorts	and	a	t-shirt	or	a	button	up	or	something	like	that
+UH	UH	IN	DT	JJ	NN	PRP	BES	RB	NNS	CC	DT	NN	CC	DT	VB	RP	CC	NN	IN	DT
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and	then	in	the	winter	time	it	's	jeans	or	or	pants
+CC	RB	IN	DT	NN	NN	PRP	BES	NNS	CC	CC	NNS
+O	O	O	O	O	O	O	O	O	I	O	O
+
+i	usually	uh	you	know
+PRP	RB	UH	PRP	VBP
+O	O	O	O	O
+
+college	is	so	casual
+NN	VBZ	RB	JJ
+O	O	O	O
+
+you	really	do	n't	want	to	dress	up	unless	you	you	uh	have	a	job
+PRP	RB	VBP	RB	VB	TO	VB	RP	IN	PRP	PRP	UH	VBP	DT	NN
+O	O	O	O	O	O	O	O	O	I	O	O	O	O	O
+
+and	you	have	to	be	there	right	after	school	or	something	like	that
+CC	PRP	VBP	TO	VB	RB	RB	IN	NN	CC	NN	IN	DT
+O	O	O	O	O	O	O	O	O	O	O	O	O
+
+so
+RB
+O
+
+right
+UH
+O
+
+like	where	i	work	it	's	it	's	pretty	casual	uh
+UH	WRB	PRP	VBP	PRP	BES	PRP	BES	RB	JJ	UH
+O	O	O	O	I	I	O	O	O	O	O
+
+it	's	it	's	i	guess	it	's	more	like	a	a	college	campus
+PRP	BES	PRP	BES	PRP	VBP	PRP	BES	JJR	IN	DT	DT	NN	NN
+I	I	I	I	O	O	O	O	O	O	I	O	O	O
+
+also	i	mean	there	's	you	know	hundreds	of	people	work	for	t	i
+RB	PRP	VBP	EX	BES	PRP	VBP	NNS	IN	NNS	VBP	IN	NNP	NNP
+O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+and	uh	a	lot	of	people	just	just	wear	jeans	and	and	uh	sweats	all	the	time
+CC	UH	DT	NN	IN	NNS	RB	RB	VBP	NNS	CC	CC	UH	NNS	PDT	DT	NN
+O	O	O	O	O	O	I	O	O	O	I	O	O	O	O	O	O
+
+and	they	dress	up	like	when	customers	are	coming	in	or	uh	when	we	have	department	meetings	or	something	like	that
+CC	PRP	VBP	RP	UH	WRB	NNS	VBP	VBG	IN	CC	UH	WRB	PRP	VBP	NN	NNS	CC	NN	IN	DT
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and	uh	you	know	a	lot	of	people	like	those	that	work	in	the	legal	department	for	their	the	real	uh	higher	ups	like	the	the	the	t	i	lawyers	and	uh	those	that	work	for	the	the	higher	executives	those	secretaries	they	uh	they	really	dress	up	all	the	time
+CC	UH	PRP	VBP	DT	NN	IN	NNS	IN	DT	WDT	VBP	IN	DT	JJ	NN	IN	PRP$	DT	JJ	UH	JJR	NNS	IN	DT	DT	DT	NNP	NNP	NNS	CC	UH	DT	WDT	VBP	IN	DT	DT	JJR	NNS	DT	NNS	PRP	UH	PRP	RB	VBP	RP	PDT	DT	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	I	O	O	O	O	O	O	I	I	O	O	O	O	O	O	O	O	O	O	I	O	O	O	O	O	I	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+oh
+UH
+O
+
+so	there	's	a	good	combination	in	the	hallways	all	the	time	you	know
+RB	EX	BES	DT	JJ	NN	IN	DT	NNS	PDT	DT	NN	PRP	VBP
+O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+well	that	's	good	that	they	're	so	casual
+UH	DT	BES	JJ	IN	PRP	VBP	RB	JJ
+O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+i	mean	uh	my	brother	works	for	t	i
+PRP	VBP	UH	PRP$	NN	NNS	IN	NNP	NNP
+O	O	O	O	O	O	O	O	O
+
+and	he	's	a	computer	programmer	or	computer	engineer
+CC	PRP	BES	DT	NN	NN	CC	NN	NN
+O	O	O	O	I	I	O	O	O
+
+uh-huh
+UH
+O
+
+uh-huh
+UH
+O
+
+and	uh	you	know	whenever	he	was	going	to	school	he	was	expecting	to	having	to	wear	uh	a	tie	or	a	dress	shirt	everyday
+CC	UH	PRP	VBP	WRB	PRP	VBD	VBG	TO	NN	PRP	VBD	VBG	TO	VBG	TO	VB	UH	DT	NN	CC	DT	NN	NN	RB
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+but	uh	he	goes	to	work	in	his	blue	jeans	t-shirt	and	tennis	shoes
+CC	UH	PRP	VBZ	TO	NN	IN	PRP$	JJ	NNS	NN	CC	NN	NNS
+O	O	O	O	O	O	O	O	O	O	O	O	O	O

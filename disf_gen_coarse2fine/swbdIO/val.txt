@@ -1,0 +1,775 @@
+i	do	n't	know	what	you	drive	now
+PRP	VBP	RB	VB	WP	PRP	VBP	RB
+O	O	O	O	O	O	O	O
+
+i	mean	what	do	you	drive	now
+PRP	VBP	WP	VBP	PRP	VB	RB
+O	O	O	O	O	O	O
+
+uh	i	have	a	ford	pickup
+UH	PRP	VBP	DT	NNP	NN
+O	O	O	O	O	O
+
+and	uh	the	family	car	is	a	uh	a	dodge	caravan	and	uh	because	we	have	three	kids	and	they	're	under	thirteen
+CC	UH	DT	NN	NN	VBZ	DT	UH	DT	NNP	NNP	CC	UH	IN	PRP	VBP	CD	NNS	CC	PRP	VBP	IN	CD
+O	O	O	O	O	O	I	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O
+
+oh	okay
+UH	UH
+O	O
+
+so	uh
+RB	UH
+O	O
+
+throw	them	in	the	back
+VB	PRP	IN	DT	NN
+O	O	O	O	O
+
+they	sort	of	fit	our	requirement
+PRP	RB	RB	VBP	PRP$	NN
+O	O	O	O	O	O
+
+yeah
+UH
+O
+
+i	have	a	one	of	those	uh	pickups	with	the	uh	seat	with	a	seat	in	the	back
+PRP	VBP	DT	CD	IN	DT	UH	NNS	IN	DT	UH	NN	IN	DT	NN	IN	DT	NN
+O	O	I	O	O	O	O	O	I	I	I	I	O	O	O	O	O	O
+
+cab
+NN
+O
+
+oh	yeah
+UH	UH
+O	O
+
+and	so	they	just	fit	in	there
+CC	RB	PRP	RB	VBP	IN	RB
+O	O	O	O	O	O	O
+
+when	they	get	to	be	teenagers	with	long	legs	it	may	not	work
+WRB	PRP	VBP	TO	VB	NNS	IN	JJ	NNS	PRP	MD	RB	VB
+O	O	O	O	O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+right	now	i	can	right	now	i	can	throw	them	all	in	the	back	when	we	have	room
+RB	RB	PRP	MD	RB	RB	PRP	MD	VB	PRP	DT	IN	DT	NN	WRB	PRP	VBP	NN
+I	I	I	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and	uh	and	since	i	do	a	lot	of	projects	i	throw	things	in	the	back
+CC	UH	CC	IN	PRP	VBP	DT	NN	IN	NNS	PRP	VBP	NNS	IN	DT	NN
+I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+there	you	go
+RB	PRP	VBP
+O	O	O
+
+and	i	kind	of	like	having	a	pickup	truck
+CC	PRP	RB	RB	VBP	VBG	DT	NN	NN
+O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+actually	i	think	of	it	as	a	as	a	car	that	'll	last
+UH	PRP	VBP	IN	PRP	IN	DT	IN	DT	NN	WDT	MD	VB
+O	O	O	O	O	I	I	O	O	O	O	O	O
+
+right
+UH
+O
+
+yeah
+UH
+O
+
+i	know
+PRP	VBP
+O	O
+
+i	like	the	way	trucks	are	built
+PRP	VBP	DT	NN	NNS	VBP	VBN
+O	O	O	O	O	O	O
+
+and	i	do	n't	care	about	comfort
+CC	PRP	VBP	RB	VB	IN	NN
+O	O	O	O	O	O	O
+
+so	i	'm	pretty	happy
+RB	PRP	VBP	RB	JJ
+O	O	O	O	O
+
+yeah
+UH
+O
+
+you	're	looking	at
+PRP	VBP	VBG	IN
+O	O	O	O
+
+i	got	a	toyota	four	runner
+PRP	VBD	DT	NNP	CD	NNP
+O	O	O	O	O	O
+
+i	wanted	a	truck	that	i	i	wanted	something	that	i	could	throw	people	in	the	back	too
+PRP	VBD	DT	NN	WDT	PRP	PRP	VBD	NN	WDT	PRP	MD	VB	NNS	IN	DT	NN	RB
+O	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O
+
+so	i	got	a	four	runner
+RB	PRP	VBD	DT	CD	NNP
+O	O	O	O	O	O
+
+so	i	would	n't	hesitate	to	get	another	one
+RB	PRP	MD	RB	VB	TO	VB	DT	NN
+O	O	O	O	O	O	O	O	O
+
+i	i	never	buy	new
+PRP	PRP	RB	VBP	JJ
+I	O	O	O	O
+
+so	i	would	n't	hesitate	to	get	another	used	truck
+RB	PRP	MD	RB	VB	TO	VB	DT	JJ	NN
+O	O	O	O	O	O	O	O	O	O
+
+you	're	just	like	me
+PRP	VBP	RB	IN	PRP
+O	O	O	O	O
+
+i	've	never	bought	a	new	vehicle	in	my	life
+PRP	VBP	RB	VBN	DT	JJ	NN	IN	PRP$	NN
+O	O	O	O	O	O	O	O	O	O
+
+and	uh	yeah
+CC	UH	UH
+O	O	O
+
+i	do	n't	i	do	n't	need	to	pay	for	the	glitz
+PRP	VBP	RB	PRP	VBP	RB	VB	TO	VB	IN	DT	NN
+I	I	I	O	O	O	O	O	O	O	O	O
+
+i	'll	let	somebody	else	uh	have	the	showroom	shine
+PRP	MD	VB	NN	RB	UH	VB	DT	NN	NN
+O	O	O	O	O	O	O	O	O	O
+
+no
+UH
+O
+
+mumblex	and	i	'll	pay	for	the	rest	of	it
+XX	CC	PRP	MD	VB	IN	DT	NN	IN	PRP
+O	O	O	O	O	O	O	O	O	O
+
+let	somebody	else	break	it	in
+VB	NN	RB	VB	PRP	RP
+O	O	O	O	O	O
+
+right
+UH
+O
+
+right
+UH
+O
+
+and	uh	the	van	we	're
+CC	UH	DT	NN	PRP	VBP
+O	O	O	O	O	O
+
+we	might	go	again	on	a	on	a	van
+PRP	MD	VB	RB	IN	DT	IN	DT	NN
+O	O	O	O	I	I	O	O	O
+
+we	we	could	probably	do	with	a	a	something	just	a	little	bit	larger	than	a	compact	in	a	sedan	next	time
+PRP	PRP	MD	RB	VB	IN	DT	DT	NN	RB	DT	JJ	NN	JJR	IN	DT	NN	IN	DT	NN	JJ	NN
+I	O	O	O	O	O	I	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+i	'm	not	sure
+PRP	VBP	RB	JJ
+O	O	O	O
+
+yeah
+UH
+O
+
+we	have	to	we	we	'll	have	to	face	it	in	a	couple	of	years
+PRP	VBP	TO	PRP	PRP	MD	VB	TO	VB	PRP	IN	DT	NN	IN	NNS
+I	I	I	I	O	O	O	O	O	O	O	O	O	O	O
+
+but	uh	i	i	guess	we	had	a	small	toyota	wagon
+CC	UH	PRP	PRP	VBP	PRP	VBD	DT	JJ	NNP	NN
+O	O	I	O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+and	we	were	real	happy	with	that	because	uh	my	my	second	requirement	after	price	is	uh	low	maintenance
+CC	PRP	VBD	RB	JJ	IN	DT	IN	UH	PRP$	PRP$	JJ	NN	IN	NN	VBZ	UH	JJ	NN
+O	O	O	O	O	O	O	O	O	I	O	O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+and	uh	it	certainly	had	that
+CC	UH	PRP	RB	VBD	DT
+O	O	O	O	O	O
+
+we	did	n't	do	much	to	it	at	all
+PRP	VBD	RB	VB	JJ	IN	PRP	IN	DT
+O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+so
+UH
+O
+
+yeah
+UH
+O
+
+my	my	mumblex
+PRP$	PRP$	XX
+I	O	O
+
+pretty	much	the	same
+RB	RB	DT	JJ
+O	O	O	O
+
+i	i	got	a	like	i	say	i	got	one	of	those	toyota	four	runners
+PRP	PRP	VBD	DT	UH	PRP	VBP	PRP	VBD	CD	IN	DT	NNP	CD	NNPS
+I	I	I	I	O	I	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+and	uh	it	pretty	much	does	everything	i	need	it	to
+CC	UH	PRP	RB	RB	VBZ	NN	PRP	VBP	PRP	TO
+O	O	O	O	O	O	O	O	O	O	O
+
+i	mean	it	it	'll	tow	three	thousand	pounds
+PRP	VBP	PRP	PRP	MD	VB	CD	CD	NNS
+O	O	I	O	O	O	O	O	O
+
+so	i	can	tow	everything
+RB	PRP	MD	VB	NN
+O	O	O	O	O
+
+and	it
+CC	PRP
+O	O
+
+i	can	throw
+PRP	MD	VB
+O	O	O
+
+i	've	had	eleven	people	in	it	before	believe	it	or	not
+PRP	VBP	VBN	CD	NNS	IN	PRP	RB	VB	PRP	CC	RB
+O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+and	uh	it	's	real	reliable
+CC	UH	PRP	BES	RB	JJ
+O	O	O	O	O	O
+
+i	i	mean	i	've	had	it	for	almost	four	years	now
+PRP	PRP	VBP	PRP	VBP	VBN	PRP	IN	RB	CD	NNS	RB
+I	O	O	O	O	O	O	O	O	O	O	O
+
+and	up	until	oh	say	two	weeks	ago	it	had	never	had	anything	wrong	with	it
+CC	IN	IN	UH	UH	CD	NNS	RB	PRP	VBD	RB	VBN	NN	JJ	IN	PRP
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+and	then	of	course	two	weeks	ago	it	decided
+CC	RB	IN	NN	CD	NNS	RB	PRP	VBD
+O	O	O	O	O	O	O	O	O
+
+i	do	n't	know
+PRP	VBP	RB	VB
+O	O	O	O
+
+it	's	the	strangest	weirdest	thing	in	the	world
+PRP	BES	DT	JJS	JJS	NN	IN	DT	NN
+O	O	O	O	O	O	O	O	O
+
+but	it	blew	a	head	gasket
+CC	PRP	VBD	DT	NN	NN
+O	O	O	O	O	O
+
+uh-oh
+UH
+O
+
+did	n't	do	any	damage	to	it
+VBD	RB	VB	DT	NN	IN	PRP
+O	O	O	O	O	O	O
+
+uh	i	caught	it	real	early
+UH	PRP	VBD	PRP	RB	JJ
+O	O	O	O	O	O
+
+how
+WRB
+O
+
+at	how	at	how	many	miles
+IN	WRB	IN	WRB	JJ	NNS
+I	I	O	O	O	O
+
+uh	oh	ninety-seven	thousand
+UH	UH	CD	CD
+O	O	O	O
+
+huh
+UH
+O
+
+so	it	's	not	real	early
+RB	PRP	BES	RB	RB	JJ
+O	O	O	O	O	O
+
+you	did	n't	overheat	it
+PRP	VBD	RB	VB	PRP
+O	O	O	O	O
+
+no
+UH
+O
+
+never	overheated	it
+RB	VBD	PRP
+O	O	O
+
+i	smell	i	smelled	the	uh	i	smelled	the	coolant
+PRP	VBP	PRP	VBD	DT	UH	PRP	VBD	DT	NN
+I	I	I	I	I	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+went	out	and	looked
+VBD	RB	CC	VBD
+O	O	O	O
+
+saw	it	was	saw	where	it	was	coming	from
+VBD	PRP	VBD	VBD	WRB	PRP	VBD	VBG	IN
+I	I	I	O	O	O	O	O	O
+
+drove	it	right	to	the	shop	and	left	it	off
+VBD	PRP	RB	IN	DT	NN	CC	VBD	PRP	RP
+O	O	O	O	O	O	O	O	O	O
+
+huh
+UH
+O
+
+well	that	was	mumblex
+UH	DT	VBD	XX
+O	O	O	O
+
+and	that	was	it
+CC	DT	VBD	PRP
+O	O	O	O
+
+because	i	i	have	that
+IN	PRP	PRP	VBP	DT
+O	I	O	O	O
+
+and	then	i	have	a	a	kawasaki	motorcycle	which	is	actually	the	usually	my	preferred	mode	of	transportation	if	i	can	take	it	and	it	's	not	raining
+CC	RB	PRP	VBP	DT	DT	NNP	NN	WDT	VBZ	UH	DT	RB	PRP$	JJ	NN	IN	NN	IN	PRP	MD	VB	PRP	CC	PRP	BES	RB	VBG
+O	O	O	O	I	O	O	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+yeah
+UH
+O
+
+i	mean	that	's	that	's	sort	of	my	hobby	though	more	than	a	vehicle
+PRP	VBP	DT	BES	DT	BES	RB	RB	PRP$	NN	IN	RBR	IN	DT	NN
+O	O	I	I	O	O	O	O	O	O	O	O	O	O	O
+
+it	it	's	a
+PRP	PRP	BES	DT
+I	O	O	O
+
+i	do	n't	know
+PRP	VBP	RB	VB
+O	O	O	O
+
+people	who	buy	motorcycles	for	transportation	i	think	are	kidding	themselves
+NNS	WP	VBP	NNS	IN	NN	PRP	VBP	VBP	VBG	PRP
+O	O	O	O	O	O	O	O	O	O	O
+
+i	have	one	colleague	that	uh	commutes	to	work	on	one	when	it	's	not	raining
+PRP	VBP	CD	NN	WDT	UH	VBZ	IN	NN	IN	NN	WRB	PRP	BES	RB	VBG
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and	uh	uh	he	's	a
+CC	UH	UH	PRP	BES	DT
+O	O	O	O	O	O
+
+it	's
+PRP	BES
+O	O
+
+he	's	pretty	conservative	guy
+PRP	BES	RB	JJ	NN
+O	O	O	O	O
+
+i	do	n't	think	it	's	much	of	a	sport	for	him	i	guess	uh
+PRP	VBP	RB	VB	PRP	BES	JJ	IN	DT	NN	IN	PRP	PRP	VBP	UH
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+i	know
+PRP	VBP
+O	O
+
+but	i	bet	you	he	really	enjoys	riding	it
+CC	PRP	VBP	PRP	PRP	RB	VBZ	VBG	PRP
+O	O	O	O	O	O	O	O	O
+
+i	'm	sure	he	does
+PRP	VBP	JJ	PRP	VBZ
+O	O	O	O	O
+
+yeah
+UH
+O
+
+yeah
+UH
+O
+
+so	you	know
+RB	PRP	VBP
+O	O	O
+
+when	was	the	last	time	you	took	out	took	your	truck	out	just	to	just	to	go	driving
+WRB	VBD	DT	JJ	NN	PRP	VBD	RB	VBD	PRP$	NN	RB	RB	TO	RB	TO	VB	VBG
+O	O	O	O	O	O	I	I	O	O	O	O	I	I	O	O	O	O
+
+yeah
+UH
+O
+
+no
+UH
+O
+
+and	i	go	out	twice	a	week	on	the	bike	so	at	least	just	for	the	enjoyment
+CC	PRP	VBP	RB	RB	DT	NN	IN	DT	NN	UH	IN	JJS	RB	IN	DT	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+uh
+UH
+O
+
+yeah
+UH
+O
+
+but	yeah
+CC	UH
+O	O
+
+i	i	mean	the	only	thing	i	think	i	might	get	a	new	car	or	not	necessarily	a	new	car	but	a	another	car
+PRP	PRP	VBP	DT	JJ	NN	PRP	VBP	PRP	MD	VB	DT	JJ	NN	CC	RB	RB	DT	JJ	NN	CC	DT	DT	NN
+I	O	O	O	O	O	O	O	O	O	O	I	I	I	O	O	O	O	O	O	O	I	O	O
+
+uh	i	would	consider	going	to	a	a	non	to	a	normal	pickup	rather	than	a	a	covered	pickup	like	the	one	i	've	got	just	because	there	's	a	lot	of	times	i	wished	i	had	just	an	open	bed	to	throw	stuff	in
+UH	PRP	MD	VB	VBG	IN	DT	DT	JJ	IN	DT	JJ	NN	IN	IN	DT	DT	JJ	NN	IN	DT	NN	PRP	VBP	VBN	RB	IN	EX	BES	DT	NN	IN	NNS	PRP	VBD	PRP	VBD	RB	DT	JJ	NN	TO	VB	NN	IN
+O	O	O	O	O	I	I	I	I	O	O	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+i	'm	sure	i	'm	sure	that	that	's	very
+PRP	VBP	JJ	PRP	VBP	JJ	IN	DT	BES	RB
+I	I	I	O	O	O	O	O	O	O
+
+i	mean	you	got	one
+PRP	VBP	PRP	VBD	CD
+O	O	O	O	O
+
+it	's	that	's	really	convenient	to	be	able	to	throw	that	sort	of	stuff	in	the	back
+PRP	BES	DT	BES	RB	JJ	TO	VB	JJ	TO	VB	DT	NN	IN	NN	IN	DT	NN
+I	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and
+CC
+O
+
+if	i	only	had	some	place	that	i	could	store	the	uh	camper	top	i	would	have	it	off	most	of	the	time
+IN	PRP	RB	VBD	DT	NN	WDT	PRP	MD	VB	DT	UH	NN	NN	PRP	MD	VB	PRP	RP	JJS	IN	DT	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+i	really	leave	it	on	there	just	for	just	to	have	it	out	of	the	way	because	you	put	it	on	the	ground	it	gets	dirty
+PRP	RB	VBP	PRP	IN	RB	RB	IN	RB	TO	VB	PRP	IN	IN	DT	NN	IN	PRP	VBP	PRP	IN	DT	NN	PRP	VBZ	JJ
+O	O	O	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+to	have	it	out	of	the	way
+TO	VB	PRP	IN	IN	DT	NN
+O	O	O	O	O	O	O
+
+right
+UH
+O
+
+but	uh	they	're	solid
+CC	UH	PRP	VBP	JJ
+O	O	O	O	O
+
+uh	trucks	are	built	uh	i	mean
+UH	NNS	VBP	VBN	UH	PRP	VBP
+O	O	O	O	O	O	O
+
+i	think	they	last	a	lot	longer	than	anything	else
+PRP	VBP	PRP	VBP	DT	NN	RBR	IN	NN	RB
+O	O	O	O	O	O	O	O	O	O
+
+they	're	the	only	things	americans	still	know	how	to	build
+PRP	VBP	DT	JJ	NNS	NNPS	RB	VBP	WRB	TO	VB
+O	O	O	O	O	O	O	O	O	O	O
+
+and	uh
+CC	UH
+O	O
+
+yeah
+UH
+O
+
+yeah
+UH
+O
+
+the	trucks	do
+DT	NNS	VBP
+O	O	O
+
+uh	even	though	you	know	the	jap	the	little	jap	trucks	are	are	good	there	too
+UH	RB	RB	PRP	VBP	DT	NNP	DT	JJ	NNP	NNS	VBP	VBP	JJ	RB	RB
+O	O	O	O	O	I	I	O	O	O	O	I	O	O	O	O
+
+but	so	are	the
+CC	RB	VBP	DT
+O	O	O	O
+
+though	i	think	the	chevies
+IN	PRP	VBP	DT	NNPS
+O	O	O	O	O
+
+i	do	n't	think	the
+PRP	VBP	RB	VB	DT
+O	O	O	O	O
+
+i	do	n't	like	the	chevies	as	much	as	i	like	the	fords
+PRP	VBP	RB	VB	DT	NNPS	RB	RB	IN	PRP	VBP	DT	NNPS
+O	O	O	O	O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+i	think	they	i	think	the	fords	tend	to	last	a	little	longer	at	least	until	recently
+PRP	VBP	PRP	PRP	VBP	DT	NNPS	VBP	TO	VB	DT	RB	JJR	IN	JJS	IN	RB
+I	I	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+i	i	kind	of	like	mine
+PRP	PRP	RB	RB	VBP	PRP
+I	O	O	O	O	O
+
+yeah
+UH
+O
+
+so	mine	's	a	ford
+RB	PRP	BES	DT	NNP
+O	O	O	O	O
+
+a	friend	of	mine	just	bought	mumblex	bought	like	a	year	ago	it	it	's	a	really	nice	truck
+DT	NN	IN	PRP	RB	VBD	XX	VBD	UH	DT	NN	RB	PRP	PRP	BES	DT	RB	JJ	NN
+O	O	O	O	O	I	O	O	O	O	O	O	I	O	O	O	O	O	O
+
+i	mean	i	do	n't	like	dodges	at	all
+PRP	VBP	PRP	VBP	RB	VB	NNPS	IN	DT
+O	O	O	O	O	O	O	O	O
+
+but	one	of	the	dodges	they	have	out	now	has	a	uh	the	cummins	turbo	diesel	on	it
+CC	CD	IN	DT	NNPS	PRP	VBP	IN	RB	VBZ	DT	UH	DT	FW	NN	NN	IN	PRP
+O	O	O	O	O	O	O	O	O	O	I	O	O	O	O	O	O	O
+
+oh	i	heard	about	that
+UH	PRP	VBD	IN	DT
+O	O	O	O	O
+
+yes
+UH
+O
+
+oh	it	's	beautiful
+UH	PRP	BES	JJ
+O	O	O	O
+
+yeah
+UH
+O
+
+that	thing	that	thing	will	last	forever	i	mean
+DT	NN	DT	NN	MD	VB	RB	PRP	VBP
+I	I	O	O	O	O	O	O	O
+
+that	that	's	a	serious	truck
+DT	DT	BES	DT	JJ	NN
+I	O	O	O	O	O
+
+oh	yeah
+UH	UH
+O	O
+
+that	thing	's	uh
+DT	NN	BES	UH
+O	O	O	O
+
+it	's	got	a	boat	engine	in	it
+PRP	HVS	VBN	DT	NN	NN	IN	PRP
+O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+this	uh
+DT	UH
+O	O
+
+i	i	know	a	contractor	who	just	got	one	of	those
+PRP	PRP	VBP	DT	NN	WP	RB	VBD	CD	IN	DT
+I	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+he	's	pleased	with	it
+PRP	BES	JJ	IN	PRP
+O	O	O	O	O
+
+okay
+UH
+O
+
+uh	i	just	currently	quit	my	job
+UH	PRP	RB	RB	VBD	PRP$	NN
+O	O	O	O	O	O	O
+
+and	so	i	really	do	n't	receive	any	benefits	right	now
+CC	RB	PRP	RB	VBP	RB	VB	DT	NNS	RB	RB
+O	O	O	O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+but	my	husband	does
+CC	PRP$	NN	VBZ
+O	O	O	O
+
+and	uh	i	think	one	of	the	uh
+CC	UH	PRP	VBP	CD	IN	DT	UH
+O	O	O	O	O	O	O	O
+
+my
+PRP$
+O
+
+first	of	all	always	salary
+JJ	IN	DT	RB	NN
+O	O	O	O	O
+
+and	the	second	thing	is	uh	because	we	have	children
+CC	DT	JJ	NN	VBZ	UH	IN	PRP	VBP	NNS
+O	O	O	O	O	O	O	O	O	O
+
+so	it	would	be	uh	health	benefits	and	medical	benefits	and
+RB	PRP	MD	VB	UH	NN	NNS	CC	JJ	NNS	CC
+O	O	O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+yeah
+UH
+O
+
+definitely
+UH
+O
+
+and	uh	right	now	we	have	probably	some	excellent	benefits	right	now	we	have	with	aetna
+CC	UH	RB	RB	PRP	VBP	RB	DT	JJ	NNS	RB	RB	PRP	VBP	IN	NNP
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and	uh	i	do	n't	know	if	you	're	familiar	with	them
+CC	UH	PRP	VBP	RB	VB	IN	PRP	VBP	JJ	IN	PRP
+O	O	O	O	O	O	O	O	O	O	O	O
+
+but	we	're	real	happy	with	them
+CC	PRP	VBP	RB	JJ	IN	PRP
+O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+yeah
+UH
+O
+
+i	've	had	a	variety	of	different	jobs	with	a	various	types	uh	in	the	computer	field
+PRP	VBP	VBN	DT	NN	IN	JJ	NNS	IN	DT	JJ	NNS	UH	IN	DT	NN	NN
+O	O	O	O	O	O	O	O	I	I	O	O	O	O	O	O	O
+
+and	so	i	've	seen	a	variety	of	types	of	benefits
+CC	RB	PRP	VBP	VBN	DT	NN	IN	NNS	IN	NNS
+O	O	O	O	O	O	O	O	O	O	O
+
+uh	i	've	worked	for	for	mumblex	for	awhile
+UH	PRP	VBP	VBN	IN	IN	XX	IN	RB
+O	O	O	O	I	I	O	O	O

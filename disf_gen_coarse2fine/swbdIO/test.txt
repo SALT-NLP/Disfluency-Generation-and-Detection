@@ -1,0 +1,603 @@
+so	julie	how	do	you	feel	about	aids	research
+RB	NNP	WRB	VBP	PRP	VB	IN	NN	NN
+O	O	O	O	O	O	O	O	O
+
+i	think	we	need	we	definitely	need	more	of	it	definitely
+PRP	VBP	PRP	VBP	PRP	RB	VBP	JJR	IN	PRP	RB
+O	O	I	I	O	O	O	O	O	O	O
+
+i	'd	agree	too
+PRP	MD	VB	RB
+O	O	O	O
+
+but	i	mean	it	seems	like	it	just	makes	economic	sense	in	that	you	know	uh	you	know
+CC	PRP	VBP	PRP	VBZ	IN	PRP	RB	VBZ	JJ	NN	IN	DT	PRP	VBP	UH	PRP	VBP
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+it	would	have	made	even	better	economic	sense	to	to	to	have	had	a	lot	more	research	than	a	longer	ago
+PRP	MD	VB	VBN	RB	RB	JJ	NN	TO	TO	TO	VB	VBN	DT	NN	JJR	NN	IN	DT	RBR	RB
+O	O	O	O	O	O	O	O	I	I	O	O	O	O	O	O	O	O	O	O	O
+
+oh	yeah
+UH	UH
+O	O
+
+yeah
+UH
+O
+
+for	certain
+IN	JJ
+O	O
+
+you	know	because	you	know	because	uh	the	country	's	going	to	wind	up	paying	for	the	treatment	of	patients
+PRP	VBP	IN	PRP	VBP	IN	UH	DT	NN	BES	VBG	TO	VB	RP	VBG	IN	DT	NN	IN	NNS
+O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+exactly
+UH
+O
+
+uh-huh
+UH
+O
+
+exactly
+UH
+O
+
+does	does	like	do	health	insurance	policies	like	for	companies	and	things	do	they	cover	diseases	like	that
+VBZ	VBZ	UH	VBP	NN	NN	NNS	UH	IN	NNS	CC	NNS	VBP	PRP	VBP	NNS	IN	DT
+I	I	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+i	think	they	cover	aids
+PRP	VBP	PRP	VBP	NN
+O	O	O	O	O
+
+but	what	they	do	is	uh	if	you	know	you	apply	for	for	to	get	a	a	insurance	policy	they	'll	uh	check	to	see	if	you	're	h	i	v	positive
+CC	WP	PRP	VBP	VBZ	UH	IN	PRP	VBP	PRP	VBP	IN	IN	TO	VB	DT	DT	NN	NN	PRP	MD	UH	VB	TO	VB	IN	PRP	VBP	NN	NN	NN	JJ
+O	O	O	O	O	O	O	O	O	O	O	I	I	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+and	if	you	are	not	only	will	they	not	give	you	uh	a	policy
+CC	IN	PRP	VBP	RB	RB	MD	PRP	RB	VBP	PRP	UH	DT	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+but	they	'll	uh	they	have	like
+CC	PRP	MD	UH	PRP	VBP	UH
+O	I	I	O	O	O	O
+
+there	's	like	you	know	a	database	of	people	that	have	tested	positive
+EX	BES	UH	PRP	VBP	DT	NN	IN	NNS	WDT	VBP	VBN	JJ
+O	O	O	O	O	O	O	O	O	O	O	O	O
+
+so	you	'll	never	be	able	to	get	insurance	ever	again
+RB	PRP	MD	RB	VB	JJ	TO	VB	NN	RB	RB
+O	O	O	O	O	O	O	O	O	O	O
+
+um	well	that	's	but	that	's	why	they	should	have	started	doing	stuff	before
+UH	UH	DT	BES	CC	DT	BES	WRB	PRP	MD	VB	VBN	VBG	NN	RB
+O	O	I	I	O	O	O	O	O	O	O	O	O	O	O
+
+i	mean	still	you	know	since	it	's	dormant	for	such	a	long	time	there	's	still	probably	a	lot	of	people	you	know	before	the	tests	ever	really	came	out	who	are	who	are	draining	a	lot	of	money	right	now	you	know
+PRP	VBP	RB	PRP	VBP	IN	PRP	BES	JJ	IN	PDT	DT	JJ	NN	EX	BES	RB	RB	DT	NN	IN	NNS	PRP	VBP	IN	DT	NNS	RB	RB	VBD	RP	WP	VBP	WP	VBP	VBG	DT	NN	IN	NN	RB	RB	PRP	VBP
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	I	I	O	O	O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+i	think	a	lot	of	it	was	was	just	that	you	know	because	of	of	the	you	know	because	because	the	majority	of	the	high	risk	groups	were	people	no	one	really	cared	about
+PRP	VBP	DT	NN	IN	PRP	VBD	VBD	RB	IN	PRP	VBP	IN	IN	IN	DT	PRP	VBP	IN	IN	DT	NN	IN	DT	JJ	NN	NNS	VBD	NNS	DT	NN	RB	VBD	IN
+O	O	O	O	O	O	I	O	O	O	O	O	I	I	I	I	I	I	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+right
+UH
+O
+
+that
+DT
+O
+
+right
+UH
+O
+
+and	all	these	god-fearing	people	were	like	well	you	know	god	is	trying	to	kill	off	all	the	et	cetera	et	cetera
+CC	PDT	DT	JJ	NNS	VBD	IN	UH	PRP	VBP	NNP	VBZ	VBG	TO	VB	RP	PDT	DT	FW	FW	FW	FW
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+uh-huh
+UH
+O
+
+yeah
+UH
+O
+
+uh	yeah
+UH	UH
+O	O
+
+one	one	one	one	humorous	retort	i	heard	heard	someone	you	know	who	claimed	that	you	know	aids	was	you	know	god	's	punishment	was	that	then	lesbians	must	be	god	's	chosen	people
+CD	CD	CD	CD	JJ	NN	PRP	VBD	VBD	NN	PRP	VBP	WP	VBD	IN	PRP	VBP	NN	VBD	PRP	VBP	NNP	POS	NN	VBD	IN	RB	NNS	MD	VB	NNP	POS	JJ	NNS
+I	I	I	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh
+UH
+O
+
+yeah
+UH
+O
+
+but	uh
+CC	UH
+O	O
+
+boy
+UH
+O
+
+that	's	a	good	one
+DT	BES	DT	JJ	NN
+O	O	O	O	O
+
+so	uh
+UH	UH
+O	O
+
+yes
+UH
+O
+
+uh	do	you	think	you	mean	do	you	actually	think	we	're	doing	enough	right	now	to
+UH	VBP	PRP	VB	PRP	VB	VBP	PRP	RB	VB	PRP	VBP	VBG	RB	RB	RB	TO
+O	I	I	I	I	I	O	O	O	O	O	O	O	O	O	O	O
+
+no
+UH
+O
+
+i	really	do	n't
+PRP	RB	VBP	RB
+O	O	O	O
+
+i	did	i	did	like	a	research	kind	of	thing	on	aids	research	and	stuff
+PRP	VBD	PRP	VBD	UH	DT	NN	NN	IN	NN	IN	NN	NN	CC	NN
+I	I	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and	uh	really	we	're	not	doing	much	at	all
+CC	UH	RB	PRP	VBP	RB	VBG	JJ	IN	DT
+O	O	O	O	O	O	O	O	O	O
+
+i	mean	most	of	what	gets	raised	i	mean	it	's	not	really	federal	movement	most	of	what	gets	raised	gets	raised	by	uh	uh	you	know	conscious	yeah	communities	and	things	like	that	you	know
+PRP	VBP	JJS	IN	WP	VBZ	VBN	PRP	VBP	PRP	BES	RB	RB	JJ	NN	JJS	IN	WP	VBZ	VBN	VBZ	VBN	IN	UH	UH	PRP	VBP	JJ	UH	NNS	CC	NNS	IN	DT	PRP	VBP
+O	O	I	I	I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+private	organizations
+JJ	NNS
+O	O
+
+uh-huh
+UH
+O
+
+like	uh	san	francisco	has	a	a	real	uh	strong	aids	support	group	and	all	that	kind	of	stuff
+UH	UH	NNP	NNP	VBZ	DT	DT	RB	UH	JJ	NN	NN	NN	CC	PDT	DT	NN	IN	NN
+O	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and	and	uh	get	they	get	donations	from	the	community	you	know	they	're	real	and	from	corporations	around	the	around	the	city	you	know	for	aids	research	and	that	kind	of	thing
+CC	CC	UH	VBP	PRP	VBP	NNS	IN	DT	NN	PRP	VBP	PRP	VBP	JJ	CC	IN	NNS	IN	DT	IN	DT	NN	PRP	VBP	IN	NN	NN	CC	DT	NN	IN	NN
+I	O	O	I	O	O	O	O	O	O	O	O	I	I	I	O	O	O	I	I	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+uh-huh
+UH
+O
+
+and	uh	i	think	there	needs	to	be	more	of	that	sort	of	on	a	federal	level	you	know	rather	than	just	in	the	places	where	it	's	you	know	where	it	's	predominated	so	far	because	it	's	you	know	it	's	bound	to	spread
+CC	UH	PRP	VBP	EX	VBZ	TO	VB	JJR	IN	DT	NN	IN	IN	DT	JJ	NN	PRP	VBP	IN	IN	RB	IN	DT	NNS	WRB	PRP	HVS	PRP	VBP	WRB	PRP	HVS	VBN	RB	RB	IN	PRP	BES	PRP	VBP	PRP	BES	VBN	TO	VB
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	I	I	I	O	O	O	O	O	O	O	O	O	I	I	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+i	mean	it	seems	that	you	know	it	's	just	you	know	of	it	's	just	going	to	reach	a	steady	a	steady	state	a	let	a	lot	lot	higher	point	than	it	will	if	we	you	know	we	'd	nip	it	in	the	bud	to	quote	barney	fife
+PRP	VBP	PRP	VBZ	IN	PRP	VBP	PRP	BES	RB	PRP	VBP	IN	PRP	BES	RB	VBG	TO	VB	DT	JJ	DT	JJ	NN	DT	NN	DT	NN	NN	JJR	NN	IN	PRP	MD	IN	PRP	PRP	VBP	PRP	MD	VB	PRP	IN	DT	NN	TO	VB	NNP	NNP
+O	O	O	O	O	O	O	I	I	I	I	I	I	O	O	O	O	O	O	I	I	O	O	O	I	I	O	O	O	O	O	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+yeah
+UH
+O
+
+i	do	n't	know
+PRP	VBP	RB	VB
+O	O	O	O
+
+i	do	n't	know
+PRP	VBP	RB	VB
+O	O	O	O
+
+i	i	i	do	n't	know	what	the	likelihood	of	that	is
+PRP	PRP	PRP	VBP	RB	VB	WP	DT	NN	IN	DT	VBZ
+I	I	O	O	O	O	O	O	O	O	O	O
+
+but	i	mean	you	know	people	really	waking	up
+CC	PRP	VBP	PRP	VBP	NNS	RB	VBG	RP
+O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+especially	with	the	ultra	conservatives	move	our	our	political	system	sort	of	seems	to	be	taking
+RB	IN	DT	JJ	NNS	VB	PRP$	PRP$	JJ	NN	RB	RB	VBZ	TO	VB	VBG
+O	O	O	O	O	O	I	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+uh-huh
+UH
+O
+
+i	would	probably	agree	with	that
+PRP	MD	RB	VB	IN	DT
+O	O	O	O	O	O
+
+yeah
+UH
+O
+
+so
+RB
+O
+
+uh	so	do	do	you	think	it	's	more	important	to	spend	money	on	research	or	for	support	of	uh	people
+UH	RB	VBP	VBP	PRP	VB	PRP	BES	RBR	JJ	TO	VB	NN	IN	NN	CC	IN	NN	IN	UH	NNS
+O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+god
+UH
+O
+
+that	's	a	good	question	fish
+DT	BES	DT	JJ	NN	NNP
+O	O	O	O	O	O
+
+i	do	n't	know
+PRP	VBP	RB	VB
+O	O	O	O
+
+uh	i	think	i	think	one	of	the	main	things	that	's	really	important	to	spend	money	on	is	education	not	support	or	or	research	per	se	but	but	education	because	a	lot	of	people	sort	of	get	drummed	out	of	the	work	place	and	out	of	society	you	know	kind	of	like	lepers	would	you	know
+UH	PRP	VBP	PRP	VBP	CD	IN	DT	JJ	NNS	WDT	BES	RB	JJ	TO	VB	NN	IN	VBZ	NN	RB	NN	CC	CC	NN	FW	FW	CC	CC	NN	IN	DT	NN	IN	NNS	RB	RB	VB	VBN	IN	IN	DT	NN	NN	CC	IN	IN	NN	PRP	VBP	RB	RB	IN	NNS	MD	PRP	VBP
+O	I	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	I	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+uh-huh
+UH
+O
+
+and	it	's	really	it	's	really	not	necessary	uh	until	until	the	disease	reaches	its	final	stage	you	know	becomes	really	infectious
+CC	PRP	BES	RB	PRP	BES	RB	RB	JJ	UH	IN	IN	DT	NN	VBZ	PRP$	JJ	NN	PRP	VBP	VBZ	RB	JJ
+O	I	I	I	O	O	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+and	uh	i	think	that	would	be	the	most	effective	support	they	could	get	is	for	other	people	to	understand	you	know	try	to	understand	what	they	're	going	through	and	everything	and	try	to	understand	that	they	're	not	you	know	they	do	n't	they	do	n't	have	to	be	just	completely	cut	off	from	from	the	community
+CC	UH	PRP	VBP	DT	MD	VB	DT	JJS	NN	NN	PRP	MD	VB	VBZ	IN	JJ	NNS	TO	VB	PRP	VBP	VB	TO	VB	WP	PRP	VBP	VBG	IN	CC	NN	CC	VB	TO	VB	IN	PRP	VBP	RB	PRP	VBP	PRP	VBP	RB	PRP	VBP	RB	VB	TO	VB	RB	RB	VBN	RP	IN	IN	DT	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	I	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	I	I	I	I	I	I	I	I	O	O	O	O	O	O	O	O	O	O	I	O	O	O
+
+uh-huh
+UH
+O
+
+uh-huh
+UH
+O
+
+and	that	and	uh	i	do	n't	know
+CC	DT	CC	UH	PRP	VBP	RB	VB
+I	I	O	O	O	O	O	O
+
+i	guess	i	think	that	that	uh	research	is	i	guess	the	most	important	just	because	i	you	know	it	it	really	needs	to	come	to	an	end	you	know
+PRP	VBP	PRP	VBP	IN	IN	UH	NN	VBZ	PRP	VBP	DT	RBS	JJ	RB	IN	PRP	PRP	VBP	PRP	PRP	RB	VBZ	TO	VB	IN	DT	NN	PRP	VBP
+O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	I	O	O	I	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+i	do	n't	know
+PRP	VBP	RB	VB
+O	O	O	O
+
+i	do	n't	know	fish
+PRP	VBP	RB	VB	NNP
+O	O	O	O	O
+
+what	do	you	think	about	that	subject
+WP	VBP	PRP	VB	IN	DT	NN
+O	O	O	O	O	O	O
+
+i	think	it	's	i	think	it	stands	a	really	interesting	question	of	uh
+PRP	VBP	PRP	BES	PRP	VBP	PRP	VBZ	DT	RB	JJ	NN	IN	UH
+I	I	I	I	O	O	O	O	O	O	O	O	O	O
+
+so	how	do	you	get	most	of	your	current	event	information
+UH	WRB	VBP	PRP	VB	JJS	IN	PRP$	JJ	NN	NN
+O	O	O	O	O	O	O	O	O	O	O
+
+well	mumblex	see	i	'm	going	to	school	right	now
+UH	XX	UH	PRP	VBP	VBG	IN	NN	RB	RB
+O	O	O	O	O	O	O	O	O	O
+
+and	uh	while	i	'm	working	i	do	n't	get	a	i	do	n't	get	a	chance	to	read	the	paper	a	lot
+CC	UH	IN	PRP	VBP	VBG	PRP	VBP	RB	VB	DT	PRP	VBP	RB	VB	DT	NN	TO	VB	DT	NN	DT	NN
+O	O	O	O	O	O	I	I	I	I	I	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+and	i	do	n't	watch	t	v	as	much	really	either	because	uh	my	free	time	is	kind	of
+CC	PRP	VBP	RB	VB	NN	NN	IN	RB	RB	RB	IN	UH	PRP$	JJ	NN	VBZ	RB	RB
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and	i	do	like	to	do	other	stuff	with	it
+CC	PRP	VBP	UH	TO	VB	JJ	NN	IN	PRP
+O	O	I	O	I	O	O	O	O	O
+
+right
+UH
+O
+
+while	i	'm	at	work	sometimes	i	on	the	computer	network	um	i	read	the	news	sometimes
+IN	PRP	VBP	IN	NN	RB	PRP	IN	DT	NN	NN	UH	PRP	VBP	DT	NN	RB
+O	O	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+and	that	's	kind	of	helpful
+CC	DT	BES	RB	RB	JJ
+O	O	O	O	O	O
+
+i	would	imagine	going	to	college	though	your	professors	and	different	things
+PRP	MD	VB	VBG	IN	NN	RB	PRP$	NNS	CC	JJ	NNS
+O	O	O	O	O	O	O	O	O	O	O	O
+
+you	keep	up	on	what	's	going	on
+PRP	VBP	RP	IN	WP	BES	VBG	RP
+O	O	O	O	O	O	O	O
+
+that	's	true
+DT	BES	JJ
+O	O	O
+
+i	mean	my	roommates	and	stuff	you	know	people	around	me	talk	about	it
+PRP	VBP	PRP$	NNS	CC	NN	PRP	VBP	NNS	IN	PRP	VBP	IN	PRP
+O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+and	the	people	i	work	with	are	pretty	you	know	up	up-to-date	on	that	kind	of	stuff
+CC	DT	NNS	PRP	VBP	IN	VBP	RB	PRP	VBP	IN	JJ	IN	DT	NN	IN	NN
+O	O	O	O	O	O	O	O	O	O	I	O	O	O	O	O	O
+
+so
+RB
+O
+
+right
+UH
+O
+
+well	i	'm	a	housewife
+UH	PRP	VBP	DT	NN
+O	O	O	O	O
+
+i	have	three	kids
+PRP	VBP	CD	NNS
+O	O	O	O
+
+and	so	um	i	get	most	of	my	information	probably	through	just	the	news	at	six	o'clock	and	then	um	talking	with	people	and	just	hearing	what	's	going	on	mumblex
+CC	RB	UH	PRP	VBP	JJS	IN	PRP$	NN	RB	IN	RB	DT	NN	IN	CD	RB	CC	RB	UH	VBG	IN	NNS	CC	RB	VBG	WP	BES	VBG	RP	XX
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+yeah
+UH
+O
+
+do	you	watch	do	you	watch	the	network	like	major	network	news
+VBP	PRP	VB	VBP	PRP	VB	DT	NN	UH	JJ	NN	NN
+I	I	I	O	O	O	I	I	O	O	O	O
+
+or	do	you	watch	like	the	macneil	lehrer	hour
+CC	VBP	PRP	VB	UH	DT	NNP	NNP	NN
+O	O	O	O	O	O	O	O	O
+
+just	the	regular	channel	just	channel	eight
+RB	DT	JJ	NN	RB	NN	CD
+I	I	I	I	O	O	O
+
+oh	really
+UH	UH
+O	O
+
+that	's	our	channel	here
+DT	BES	PRP$	NN	RB
+O	O	O	O	O
+
+that	's	the	um	eyewitness	news
+DT	BES	DT	UH	NN	NN
+O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+so
+UH
+O
+
+oh	see	channel	where	i	am	channel	eight	's	um	like	public	t	v
+UH	UH	NN	WRB	PRP	VBP	NN	CD	BES	UH	UH	JJ	NN	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+so	it	's	kind	of	different
+RB	PRP	BES	RB	RB	JJ
+O	O	O	O	O	O
+
+oh	uh-huh
+UH	UH
+O	O
+
+yeah
+UH
+O
+
+i	think	i	think	the	uh
+PRP	VBP	PRP	VBP	DT	UH
+I	I	O	O	O	O
+
+i	think	a	lot	of	the	commentators	on	like	the	major	networks	like	right	it	's	kind	of	appropriate	right	now	because	of	the	election	stuff	going	on
+PRP	VBP	DT	NN	IN	DT	NNS	IN	UH	DT	JJ	NNS	UH	RB	PRP	BES	RB	RB	JJ	RB	RB	IN	IN	DT	NN	NN	VBG	RP
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+but	um	it	seems	that	um	they	kind	of	get	to	throw	their	opinions	into	how	they	you	know	report	on	the	news
+CC	UH	PRP	VBZ	IN	UH	PRP	RB	RB	VBP	TO	VB	PRP$	NNS	IN	WRB	PRP	PRP	VBP	VBP	IN	DT	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+right
+UH
+O
+
+and	i	think	even	in	the	elections	they	choose	who	they	're	going	to	follow	and	who	they	're	not
+CC	PRP	VBP	RB	IN	DT	NNS	PRP	VBP	WP	PRP	VBP	VBG	TO	VB	CC	WP	PRP	VBP	RB
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+and	basically	you	know	if	a	candidate	can	get	them	to	follow	then	the	news	will	you	know	kind	of	publicize	his	name
+CC	RB	PRP	VBP	IN	DT	NN	MD	VB	PRP	TO	VB	RB	DT	NN	MD	PRP	VBP	RB	RB	VB	PRP$	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+yeah
+UH
+O
+
+exactly
+UH
+O
+
+i	do	n't	think	that	the	way	i	get	the	news	is	the	right	way	to	get	it
+PRP	VBP	RB	VB	IN	DT	NN	PRP	VBP	DT	NN	VBZ	DT	JJ	NN	TO	VB	PRP
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+i	think	you	get	a	very	lopsided	picture	of	what	's	going	on
+PRP	VBP	PRP	VBP	DT	RB	JJ	NN	IN	WP	BES	VBG	RP
+O	O	O	O	O	O	O	O	O	O	O	O	O
+
+uh-huh
+UH
+O
+
+because	they	can	they	can	only	report	on	i	mean
+IN	PRP	MD	PRP	MD	RB	VB	IN	PRP	VBP
+O	I	I	O	O	O	O	O	O	O
+
+they	give	each	candidate	perhaps	you	know	ten	second	blurbs	in	which	to	you	know	to	say	you	you	just	ca	n't	get	a	full	picture	of	you	know	their	message	unless	you	have	time	to	sit	down	and	and	probably	read	something	on	it
+PRP	VBP	DT	NN	RB	PRP	VBP	CD	NN	NNS	IN	WDT	TO	PRP	VBP	TO	VB	PRP	PRP	RB	MD	RB	VB	DT	JJ	NN	IN	PRP	VBP	PRP$	NN	IN	PRP	VBP	NN	TO	VB	RB	CC	CC	RB	VB	NN	IN	PRP
+O	O	O	O	O	O	O	O	O	O	O	O	I	O	O	O	O	I	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	I	O	O	O	O	O	O
+
+right
+UH
+O
+
+right
+UH
+O
+
+and	the	news	too	it	just	does	n't	um	cover	that	many	stories
+CC	DT	NN	RB	PRP	RB	VBZ	RB	UH	VB	RB	JJ	NNS
+O	O	O	O	O	O	O	O	O	O	O	O	O
+
+i	mean	it	just	covers	your	basic	you	know	violent	crimes	and	you	know	and	and	your	catastrophes	with	weather	and	stuff
+PRP	VBP	PRP	RB	VBZ	PRP$	JJ	PRP	VBP	JJ	NNS	CC	PRP	VBP	CC	CC	PRP$	NNS	IN	NN	CC	NN
+O	O	O	O	O	O	O	O	O	O	O	I	I	I	I	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+but	other	than	that	you	really	do	n't	know	what	's	going	on
+CC	JJ	IN	DT	PRP	RB	VBP	RB	VB	WP	BES	VBG	RP
+O	O	O	O	O	O	O	O	O	O	O	O	O
+
+yeah
+UH
+O
+
+um	i	will	read	our	current	letters	that	come	out	on	elections
+UH	PRP	MD	VB	PRP$	JJ	NNS	WDT	VBP	RP	IN	NNS
+O	O	O	O	O	O	O	O	O	O	O	O
+
+and	i	guess	i	do	read	that
+CC	PRP	VBP	PRP	VBP	VB	DT
+O	O	O	O	O	O	O
+
+and	i	do	study	who	's	running	in	our	area
+CC	PRP	VBP	VB	WP	BES	VBG	IN	PRP$	NN
+O	O	O	O	O	O	O	O	O	O
+
+and	i	do	study	what	's	going	on	in	the	economy
+CC	PRP	VBP	VB	WP	BES	VBG	RP	IN	DT	NN
+O	O	O	O	O	O	O	O	O	O	O
+
+it	you	know
+PRP	PRP	VBP
+O	O	O
+
+and	i	guess	i	do	read	other	magazines	um	too	to	get	my	information
+CC	PRP	VBP	PRP	VBP	VB	JJ	NNS	UH	RB	TO	VB	PRP$	NN
+O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+what	kind	of	see
+WDT	NN	IN	UH
+O	O	O	O
