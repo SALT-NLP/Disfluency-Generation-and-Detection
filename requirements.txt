@@ -783,7 +783,7 @@ torchvision == 0.3.0
 # transformers/src/transformers/file_utils.py: 27
 # transformers/src/transformers/hf_api.py: 23
 # transformers/templates/adding_a_new_example_script/run_xxx.py: 28
-tqdm == 4.30.0
+tqdm == 4.38.0
 
 # .ipynb_checkpoints/createFakeLM-checkpoint.py: 6
 # .ipynb_checkpoints/createFakeLM-test-checkpoint.py: 6
